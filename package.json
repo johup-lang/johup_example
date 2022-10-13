@@ -1,7 +1,14 @@
 {
-  "name": "ทดสอบ"
-  "description": "ทดสอบ1"
-  "repository": "https://github.com/johup-lang"
-  "version": "1.0.0"
-  "engines": {"atom": ">=1.0.0 <2.0.0"}
+  "name": "noName",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "ร้านเราไม่รับคนละครึ่ง",
+  "keywords": [
+    "เราชนะ"
+  ],
+  "repository": "https://github.com/johup-lang/johup_example.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
